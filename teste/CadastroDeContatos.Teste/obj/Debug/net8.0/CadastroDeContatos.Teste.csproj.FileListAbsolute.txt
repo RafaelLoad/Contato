@@ -1,0 +1,11 @@
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\CadastroDeContatos.Teste.deps.json
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\CadastroDeContatos.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\CadastroDeContatos.Teste.pdb
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\refint\CadastroDeContatos.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\CadastroDeContatos.Teste.pdb
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\ref\CadastroDeContatos.Teste.dll

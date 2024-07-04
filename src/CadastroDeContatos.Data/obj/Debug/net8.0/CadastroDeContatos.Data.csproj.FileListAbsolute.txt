@@ -1,0 +1,17 @@
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Data.deps.json
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Data.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Data.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\refint\CadastroDeContatos.Data.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\ref\CadastroDeContatos.Data.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Data.runtimeconfig.json
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Domain.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\bin\Debug\net8.0\CadastroDeContatos.Domain.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\Cadastro.AC0D048C.Up2Date
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Data\obj\Debug\net8.0\CadastroDeContatos.Data.genruntimeconfig.cache

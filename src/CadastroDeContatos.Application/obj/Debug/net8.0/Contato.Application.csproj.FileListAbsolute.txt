@@ -1,0 +1,15 @@
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\Contato.Application.deps.json
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\Contato.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\Contato.Application.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\Contato.Domain.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\Contato.Domain.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato..A4CEAA11.Up2Date
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\refint\Contato.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Contato.Application.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\ref\Contato.Application.dll

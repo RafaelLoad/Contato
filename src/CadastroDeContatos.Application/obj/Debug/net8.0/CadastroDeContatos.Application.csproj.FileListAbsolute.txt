@@ -1,0 +1,17 @@
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Application.deps.json
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Application.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\refint\CadastroDeContatos.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\ref\CadastroDeContatos.Application.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Domain.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Domain.pdb
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\CadastroDeContatos.Application.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\obj\Debug\net8.0\Cadastro.FA95CBA6.Up2Date
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Data.dll
+C:\Users\55119\Documents\CadastroDeContatos\src\CadastroDeContatos.Application\bin\Debug\net8.0\CadastroDeContatos.Data.pdb

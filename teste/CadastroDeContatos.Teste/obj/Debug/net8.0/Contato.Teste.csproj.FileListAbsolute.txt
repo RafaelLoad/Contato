@@ -1,0 +1,11 @@
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\Contato.Teste.deps.json
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\Contato.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\bin\Debug\net8.0\Contato.Teste.pdb
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\refint\Contato.Teste.dll
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\Contato.Teste.pdb
+C:\Users\55119\Documents\CadastroDeContatos\teste\CadastroDeContatos.Teste\obj\Debug\net8.0\ref\Contato.Teste.dll

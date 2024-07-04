@@ -1,0 +1,7 @@
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.csproj.AssemblyReference.cache
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.AssemblyInfoInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.AssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55119\Documents\CadastroDeContatos\CadastroDeContatos\obj\Debug\net8.0\CadastroDeContatos.MvcApplicationPartsAssemblyInfo.cache

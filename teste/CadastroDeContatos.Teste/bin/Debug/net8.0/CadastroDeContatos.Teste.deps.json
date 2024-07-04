@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CadastroDeContatos.Teste/1.0.0": {
+        "runtime": {
+          "CadastroDeContatos.Teste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroDeContatos.Teste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
